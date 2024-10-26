@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Ali/Documents/Leet/762 (Easy)/Main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x4C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z3powB8ue170006IiiENSt3__19enable_ifIXaasr3std13is_arithmeticIT_EE5valuesr3std13is_arithmeticIT0_EE5valueENS0_9__promoteIS2_S3_vEEE4type4typeES2_S3_, symObjAddr: 0x1BC, symBinAddr: 0x100003E3C, symSize: 0x44 }
+  - { offsetInCU: 0x3031, offset: 0x3031, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x4C }
+  - { offsetInCU: 0x30BF, offset: 0x30BF, size: 0x8, addend: 0x0, symName: __ZN8Solution17countPrimeSetBitsEii, symObjAddr: 0x4C, symBinAddr: 0x100003CCC, symSize: 0x140 }
+  - { offsetInCU: 0x3161, offset: 0x3161, size: 0x8, addend: 0x0, symName: __Z4log2B8ue170006IiENSt3__19enable_ifIXsr3std11is_integralIT_EE5valueEdE4typeES2_, symObjAddr: 0x18C, symBinAddr: 0x100003E0C, symSize: 0x30 }
+  - { offsetInCU: 0x3198, offset: 0x3198, size: 0x8, addend: 0x0, symName: __ZN8Solution7isPrimeEi, symObjAddr: 0x200, symBinAddr: 0x100003E80, symSize: 0xE4 }
+...

@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.f": "glsl",
+        "*.v": "glsl",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "map": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "Lua.diagnostics.globals": [
+        "addAll",
+        "sort",
+        "guess"
+    ]
+}
